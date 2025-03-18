@@ -1,0 +1,604 @@
+[2025-03-17 19:02:51.805] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:02:51.836] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:02:51.836] [info] Processing hand_r_imu
+[2025-03-17 19:02:51.836] [info] Computed offset for hand_r_imu
+[2025-03-17 19:02:51.837] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:02:51.837] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:02:51.839] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:02:51.839] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:02:51.839] [info] Processing pelvis_imu
+[2025-03-17 19:02:51.841] [info] Computed offset for pelvis_imu
+[2025-03-17 19:02:51.842] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:02:51.843] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:02:51.845] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:02:51.845] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:02:52.321] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-17 19:04:17.451] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:04:17.486] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:04:17.487] [info] Processing hand_r_imu
+[2025-03-17 19:04:17.487] [info] Computed offset for hand_r_imu
+[2025-03-17 19:04:17.487] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:04:17.487] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:04:17.489] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:04:17.489] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:04:17.489] [info] Processing pelvis_imu
+[2025-03-17 19:04:17.489] [info] Computed offset for pelvis_imu
+[2025-03-17 19:04:17.490] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:04:17.490] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:04:17.491] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:04:17.492] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:04:17.566] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-17 19:04:18.216] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-17 19:07:57.766] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:07:57.807] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:07:57.807] [info] Processing hand_r_imu
+[2025-03-17 19:07:57.807] [info] Computed offset for hand_r_imu
+[2025-03-17 19:07:57.808] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:07:57.808] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:07:57.810] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:07:57.810] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:07:57.810] [info] Processing pelvis_imu
+[2025-03-17 19:07:57.811] [info] Computed offset for pelvis_imu
+[2025-03-17 19:07:57.811] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:07:57.811] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:07:57.813] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:07:57.813] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:07:57.879] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-17 19:07:58.477] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-17 19:08:33.423] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:08:33.424] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2025-03-17 19:08:33.424] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2025-03-17 19:08:33.425] [warning] Couldn't find file 'sacrum.vtp'.
+[2025-03-17 19:08:33.425] [warning] Couldn't find file 'femur_r.vtp'.
+[2025-03-17 19:08:33.425] [warning] Couldn't find file 'tibia_r.vtp'.
+[2025-03-17 19:08:33.426] [warning] Couldn't find file 'r_fibula.vtp'.
+[2025-03-17 19:08:33.426] [warning] Couldn't find file 'r_patella.vtp'.
+[2025-03-17 19:08:33.426] [warning] Couldn't find file 'r_talus.vtp'.
+[2025-03-17 19:08:33.426] [warning] Couldn't find file 'r_foot.vtp'.
+[2025-03-17 19:08:33.427] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2025-03-17 19:08:33.427] [warning] Couldn't find file 'femur_l.vtp'.
+[2025-03-17 19:08:33.427] [warning] Couldn't find file 'tibia_l.vtp'.
+[2025-03-17 19:08:33.428] [warning] Couldn't find file 'l_fibula.vtp'.
+[2025-03-17 19:08:33.428] [warning] Couldn't find file 'l_patella.vtp'.
+[2025-03-17 19:08:33.428] [warning] Couldn't find file 'l_talus.vtp'.
+[2025-03-17 19:08:33.428] [warning] Couldn't find file 'l_foot.vtp'.
+[2025-03-17 19:08:33.428] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2025-03-17 19:08:33.429] [warning] Couldn't find file 'hat_spine.vtp'.
+[2025-03-17 19:08:33.429] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2025-03-17 19:08:33.429] [warning] Couldn't find file 'hat_skull.vtp'.
+[2025-03-17 19:08:33.429] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2025-03-17 19:08:33.430] [warning] Couldn't find file 'humerus_rv.vtp'.
+[2025-03-17 19:08:33.430] [warning] Couldn't find file 'ulna_rv.vtp'.
+[2025-03-17 19:08:33.430] [warning] Couldn't find file 'radius_rv.vtp'.
+[2025-03-17 19:08:33.430] [warning] Couldn't find file 'pisiform_rvs.vtp'.
+[2025-03-17 19:08:33.431] [warning] Couldn't find file 'lunate_rvs.vtp'.
+[2025-03-17 19:08:33.431] [warning] Couldn't find file 'scaphoid_rvs.vtp'.
+[2025-03-17 19:08:33.431] [warning] Couldn't find file 'triquetrum_rvs.vtp'.
+[2025-03-17 19:08:33.431] [warning] Couldn't find file 'hamate_rvs.vtp'.
+[2025-03-17 19:08:33.432] [warning] Couldn't find file 'capitate_rvs.vtp'.
+[2025-03-17 19:08:33.432] [warning] Couldn't find file 'trapezoid_rvs.vtp'.
+[2025-03-17 19:08:33.432] [warning] Couldn't find file 'trapezium_rvs.vtp'.
+[2025-03-17 19:08:33.432] [warning] Couldn't find file 'metacarpal2_rvs.vtp'.
+[2025-03-17 19:08:33.432] [warning] Couldn't find file 'index_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.433] [warning] Couldn't find file 'index_medial_rvs.vtp'.
+[2025-03-17 19:08:33.433] [warning] Couldn't find file 'index_distal_rvs.vtp'.
+[2025-03-17 19:08:33.433] [warning] Couldn't find file 'metacarpal3_rvs.vtp'.
+[2025-03-17 19:08:33.433] [warning] Couldn't find file 'middle_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.434] [warning] Couldn't find file 'middle_medial_rvs.vtp'.
+[2025-03-17 19:08:33.434] [warning] Couldn't find file 'middle_distal_rvs.vtp'.
+[2025-03-17 19:08:33.434] [warning] Couldn't find file 'metacarpal4_rvs.vtp'.
+[2025-03-17 19:08:33.434] [warning] Couldn't find file 'ring_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.435] [warning] Couldn't find file 'ring_medial_rvs.vtp'.
+[2025-03-17 19:08:33.435] [warning] Couldn't find file 'ring_distal_rvs.vtp'.
+[2025-03-17 19:08:33.435] [warning] Couldn't find file 'metacarpal5_rvs.vtp'.
+[2025-03-17 19:08:33.436] [warning] Couldn't find file 'little_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.436] [warning] Couldn't find file 'little_medial_rvs.vtp'.
+[2025-03-17 19:08:33.437] [warning] Couldn't find file 'little_distal_rvs.vtp'.
+[2025-03-17 19:08:33.437] [warning] Couldn't find file 'metacarpal1_rvs.vtp'.
+[2025-03-17 19:08:33.437] [warning] Couldn't find file 'thumb_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.437] [warning] Couldn't find file 'thumb_distal_rvs.vtp'.
+[2025-03-17 19:08:33.438] [warning] Couldn't find file 'humerus_lv.vtp'.
+[2025-03-17 19:08:33.438] [warning] Couldn't find file 'ulna_lv.vtp'.
+[2025-03-17 19:08:33.438] [warning] Couldn't find file 'radius_lv.vtp'.
+[2025-03-17 19:08:33.438] [warning] Couldn't find file 'pisiform_lvs.vtp'.
+[2025-03-17 19:08:33.439] [warning] Couldn't find file 'lunate_lvs.vtp'.
+[2025-03-17 19:08:33.439] [warning] Couldn't find file 'scaphoid_lvs.vtp'.
+[2025-03-17 19:08:33.439] [warning] Couldn't find file 'triquetrum_lvs.vtp'.
+[2025-03-17 19:08:33.440] [warning] Couldn't find file 'hamate_lvs.vtp'.
+[2025-03-17 19:08:33.440] [warning] Couldn't find file 'capitate_lvs.vtp'.
+[2025-03-17 19:08:33.440] [warning] Couldn't find file 'trapezoid_lvs.vtp'.
+[2025-03-17 19:08:33.440] [warning] Couldn't find file 'trapezium_lvs.vtp'.
+[2025-03-17 19:08:33.441] [warning] Couldn't find file 'metacarpal2_lvs.vtp'.
+[2025-03-17 19:08:33.441] [warning] Couldn't find file 'index_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.441] [warning] Couldn't find file 'index_medial_lvs.vtp'.
+[2025-03-17 19:08:33.442] [warning] Couldn't find file 'index_distal_lvs.vtp'.
+[2025-03-17 19:08:33.442] [warning] Couldn't find file 'metacarpal3_lvs.vtp'.
+[2025-03-17 19:08:33.442] [warning] Couldn't find file 'middle_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.442] [warning] Couldn't find file 'middle_medial_lvs.vtp'.
+[2025-03-17 19:08:33.442] [warning] Couldn't find file 'middle_distal_lvs.vtp'.
+[2025-03-17 19:08:33.443] [warning] Couldn't find file 'metacarpal4_lvs.vtp'.
+[2025-03-17 19:08:33.443] [warning] Couldn't find file 'ring_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.443] [warning] Couldn't find file 'ring_medial_lvs.vtp'.
+[2025-03-17 19:08:33.443] [warning] Couldn't find file 'ring_distal_lvs.vtp'.
+[2025-03-17 19:08:33.444] [warning] Couldn't find file 'metacarpal5_lvs.vtp'.
+[2025-03-17 19:08:33.444] [warning] Couldn't find file 'little_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.444] [warning] Couldn't find file 'little_medial_lvs.vtp'.
+[2025-03-17 19:08:33.444] [warning] Couldn't find file 'little_distal_lvs.vtp'.
+[2025-03-17 19:08:33.445] [warning] Couldn't find file 'metacarpal1_lvs.vtp'.
+[2025-03-17 19:08:33.445] [warning] Couldn't find file 'thumb_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.445] [warning] Couldn't find file 'thumb_distal_lvs.vtp'.
+[2025-03-17 19:08:33.473] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:08:33.473] [info] Processing hand_r_imu
+[2025-03-17 19:08:33.473] [info] Computed offset for hand_r_imu
+[2025-03-17 19:08:33.474] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:08:33.474] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:08:33.477] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:08:33.478] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:08:33.478] [info] Processing pelvis_imu
+[2025-03-17 19:08:33.478] [info] Computed offset for pelvis_imu
+[2025-03-17 19:08:33.478] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:08:33.479] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:08:33.482] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:08:33.482] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:08:33.538] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-17 19:08:33.539] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2025-03-17 19:08:33.539] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2025-03-17 19:08:33.540] [warning] Couldn't find file 'sacrum.vtp'.
+[2025-03-17 19:08:33.540] [warning] Couldn't find file 'femur_r.vtp'.
+[2025-03-17 19:08:33.540] [warning] Couldn't find file 'tibia_r.vtp'.
+[2025-03-17 19:08:33.541] [warning] Couldn't find file 'r_fibula.vtp'.
+[2025-03-17 19:08:33.541] [warning] Couldn't find file 'r_patella.vtp'.
+[2025-03-17 19:08:33.541] [warning] Couldn't find file 'r_talus.vtp'.
+[2025-03-17 19:08:33.542] [warning] Couldn't find file 'r_foot.vtp'.
+[2025-03-17 19:08:33.542] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2025-03-17 19:08:33.542] [warning] Couldn't find file 'femur_l.vtp'.
+[2025-03-17 19:08:33.542] [warning] Couldn't find file 'tibia_l.vtp'.
+[2025-03-17 19:08:33.543] [warning] Couldn't find file 'l_fibula.vtp'.
+[2025-03-17 19:08:33.543] [warning] Couldn't find file 'l_patella.vtp'.
+[2025-03-17 19:08:33.543] [warning] Couldn't find file 'l_talus.vtp'.
+[2025-03-17 19:08:33.543] [warning] Couldn't find file 'l_foot.vtp'.
+[2025-03-17 19:08:33.544] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2025-03-17 19:08:33.544] [warning] Couldn't find file 'hat_spine.vtp'.
+[2025-03-17 19:08:33.544] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2025-03-17 19:08:33.545] [warning] Couldn't find file 'hat_skull.vtp'.
+[2025-03-17 19:08:33.545] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2025-03-17 19:08:33.545] [warning] Couldn't find file 'humerus_rv.vtp'.
+[2025-03-17 19:08:33.546] [warning] Couldn't find file 'ulna_rv.vtp'.
+[2025-03-17 19:08:33.546] [warning] Couldn't find file 'radius_rv.vtp'.
+[2025-03-17 19:08:33.546] [warning] Couldn't find file 'pisiform_rvs.vtp'.
+[2025-03-17 19:08:33.547] [warning] Couldn't find file 'lunate_rvs.vtp'.
+[2025-03-17 19:08:33.547] [warning] Couldn't find file 'scaphoid_rvs.vtp'.
+[2025-03-17 19:08:33.547] [warning] Couldn't find file 'triquetrum_rvs.vtp'.
+[2025-03-17 19:08:33.547] [warning] Couldn't find file 'hamate_rvs.vtp'.
+[2025-03-17 19:08:33.548] [warning] Couldn't find file 'capitate_rvs.vtp'.
+[2025-03-17 19:08:33.548] [warning] Couldn't find file 'trapezoid_rvs.vtp'.
+[2025-03-17 19:08:33.548] [warning] Couldn't find file 'trapezium_rvs.vtp'.
+[2025-03-17 19:08:33.548] [warning] Couldn't find file 'metacarpal2_rvs.vtp'.
+[2025-03-17 19:08:33.548] [warning] Couldn't find file 'index_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.549] [warning] Couldn't find file 'index_medial_rvs.vtp'.
+[2025-03-17 19:08:33.549] [warning] Couldn't find file 'index_distal_rvs.vtp'.
+[2025-03-17 19:08:33.549] [warning] Couldn't find file 'metacarpal3_rvs.vtp'.
+[2025-03-17 19:08:33.549] [warning] Couldn't find file 'middle_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.550] [warning] Couldn't find file 'middle_medial_rvs.vtp'.
+[2025-03-17 19:08:33.550] [warning] Couldn't find file 'middle_distal_rvs.vtp'.
+[2025-03-17 19:08:33.550] [warning] Couldn't find file 'metacarpal4_rvs.vtp'.
+[2025-03-17 19:08:33.550] [warning] Couldn't find file 'ring_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.550] [warning] Couldn't find file 'ring_medial_rvs.vtp'.
+[2025-03-17 19:08:33.551] [warning] Couldn't find file 'ring_distal_rvs.vtp'.
+[2025-03-17 19:08:33.551] [warning] Couldn't find file 'metacarpal5_rvs.vtp'.
+[2025-03-17 19:08:33.551] [warning] Couldn't find file 'little_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.551] [warning] Couldn't find file 'little_medial_rvs.vtp'.
+[2025-03-17 19:08:33.551] [warning] Couldn't find file 'little_distal_rvs.vtp'.
+[2025-03-17 19:08:33.552] [warning] Couldn't find file 'metacarpal1_rvs.vtp'.
+[2025-03-17 19:08:33.552] [warning] Couldn't find file 'thumb_proximal_rvs.vtp'.
+[2025-03-17 19:08:33.552] [warning] Couldn't find file 'thumb_distal_rvs.vtp'.
+[2025-03-17 19:08:33.552] [warning] Couldn't find file 'humerus_lv.vtp'.
+[2025-03-17 19:08:33.552] [warning] Couldn't find file 'ulna_lv.vtp'.
+[2025-03-17 19:08:33.553] [warning] Couldn't find file 'radius_lv.vtp'.
+[2025-03-17 19:08:33.553] [warning] Couldn't find file 'pisiform_lvs.vtp'.
+[2025-03-17 19:08:33.553] [warning] Couldn't find file 'lunate_lvs.vtp'.
+[2025-03-17 19:08:33.553] [warning] Couldn't find file 'scaphoid_lvs.vtp'.
+[2025-03-17 19:08:33.554] [warning] Couldn't find file 'triquetrum_lvs.vtp'.
+[2025-03-17 19:08:33.554] [warning] Couldn't find file 'hamate_lvs.vtp'.
+[2025-03-17 19:08:33.554] [warning] Couldn't find file 'capitate_lvs.vtp'.
+[2025-03-17 19:08:33.554] [warning] Couldn't find file 'trapezoid_lvs.vtp'.
+[2025-03-17 19:08:33.554] [warning] Couldn't find file 'trapezium_lvs.vtp'.
+[2025-03-17 19:08:33.555] [warning] Couldn't find file 'metacarpal2_lvs.vtp'.
+[2025-03-17 19:08:33.555] [warning] Couldn't find file 'index_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.555] [warning] Couldn't find file 'index_medial_lvs.vtp'.
+[2025-03-17 19:08:33.555] [warning] Couldn't find file 'index_distal_lvs.vtp'.
+[2025-03-17 19:08:33.556] [warning] Couldn't find file 'metacarpal3_lvs.vtp'.
+[2025-03-17 19:08:33.556] [warning] Couldn't find file 'middle_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.556] [warning] Couldn't find file 'middle_medial_lvs.vtp'.
+[2025-03-17 19:08:33.556] [warning] Couldn't find file 'middle_distal_lvs.vtp'.
+[2025-03-17 19:08:33.556] [warning] Couldn't find file 'metacarpal4_lvs.vtp'.
+[2025-03-17 19:08:33.557] [warning] Couldn't find file 'ring_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.557] [warning] Couldn't find file 'ring_medial_lvs.vtp'.
+[2025-03-17 19:08:33.557] [warning] Couldn't find file 'ring_distal_lvs.vtp'.
+[2025-03-17 19:08:33.557] [warning] Couldn't find file 'metacarpal5_lvs.vtp'.
+[2025-03-17 19:08:33.557] [warning] Couldn't find file 'little_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.558] [warning] Couldn't find file 'little_medial_lvs.vtp'.
+[2025-03-17 19:08:33.558] [warning] Couldn't find file 'little_distal_lvs.vtp'.
+[2025-03-17 19:08:33.558] [warning] Couldn't find file 'metacarpal1_lvs.vtp'.
+[2025-03-17 19:08:33.559] [warning] Couldn't find file 'thumb_proximal_lvs.vtp'.
+[2025-03-17 19:08:33.559] [warning] Couldn't find file 'thumb_distal_lvs.vtp'.
+[2025-03-17 19:08:33.651] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-17 19:09:41.903] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:09:42.586] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:09:42.587] [info] Processing hand_r_imu
+[2025-03-17 19:09:42.587] [info] Computed offset for hand_r_imu
+[2025-03-17 19:09:42.587] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:09:42.588] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:09:42.589] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:09:42.589] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:09:42.589] [info] Processing pelvis_imu
+[2025-03-17 19:09:42.590] [info] Computed offset for pelvis_imu
+[2025-03-17 19:09:42.590] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:09:42.590] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:09:42.591] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:09:42.592] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:09:42.651] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-17 19:09:43.115] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-17 19:11:35.881] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:11:35.909] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:11:35.910] [info] Processing hand_r_imu
+[2025-03-17 19:11:35.910] [info] Computed offset for hand_r_imu
+[2025-03-17 19:11:35.910] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:11:35.911] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:11:35.913] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:11:35.914] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:11:35.914] [info] Processing pelvis_imu
+[2025-03-17 19:11:35.915] [info] Computed offset for pelvis_imu
+[2025-03-17 19:11:35.915] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:11:35.915] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:11:35.917] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:11:35.917] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:11:35.973] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-17 19:11:36.449] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-17 19:28:47.929] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-17 19:28:47.961] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-17 19:28:47.961] [info] Processing hand_r_imu
+[2025-03-17 19:28:47.962] [info] Computed offset for hand_r_imu
+[2025-03-17 19:28:47.962] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-17 19:28:47.962] [info] Creating offset frame for hand_r_imu
+[2025-03-17 19:28:47.964] [info] Added offset frame for hand_r_imu.
+[2025-03-17 19:28:47.964] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-17 19:28:47.964] [info] Processing pelvis_imu
+[2025-03-17 19:28:47.965] [info] Computed offset for pelvis_imu
+[2025-03-17 19:28:47.965] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-17 19:28:47.966] [info] Creating offset frame for pelvis_imu
+[2025-03-17 19:28:47.967] [info] Added offset frame for pelvis_imu.
+[2025-03-17 19:28:47.967] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-17 19:28:48.031] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-17 19:28:48.505] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:12:05.014] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:12:05.085] [info] Heading correction computed to be 86.7398 degs about ground Y.
+[2025-03-18 11:12:05.085] [info] Processing pelvis_imu
+[2025-03-18 11:12:05.085] [info] Computed offset for pelvis_imu
+[2025-03-18 11:12:05.086] [info] Offset is 
+[-0.00175279,0.246155,0.969229]
+[-0.0368096,0.968558,-0.246051]
+[-0.999321,-0.0361082,0.0073632]
+
+[2025-03-18 11:12:05.086] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:12:05.087] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:12:05.087] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:12:05.087] [info] Processing hand_r_imu
+[2025-03-18 11:12:05.087] [info] Computed offset for hand_r_imu
+[2025-03-18 11:12:05.087] [info] Offset is 
+[-0.00159131,0.246319,0.969187]
+[-0.0368562,0.968516,-0.246209]
+[-0.999319,-0.0361124,0.00753719]
+
+[2025-03-18 11:12:05.087] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:12:05.089] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:12:05.089] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:12:05.089] [info] Processing humerus_r_imu
+[2025-03-18 11:12:05.089] [info] Computed offset for humerus_r_imu
+[2025-03-18 11:12:05.089] [info] Offset is 
+[-0.00175279,0.246155,0.969229]
+[-0.0368096,0.968558,-0.246051]
+[-0.999321,-0.0361082,0.0073632]
+
+[2025-03-18 11:12:05.089] [info] Creating offset frame for humerus_r_imu
+[2025-03-18 11:12:05.091] [info] Added offset frame for humerus_r_imu.
+[2025-03-18 11:12:05.091] [info] humerus_r_imu offset computed from humerus_r_imu data from file.
+[2025-03-18 11:12:05.091] [info] Processing radius_r_imu
+[2025-03-18 11:12:05.091] [info] Computed offset for radius_r_imu
+[2025-03-18 11:12:05.091] [info] Offset is 
+[-0.00159131,0.246319,0.969187]
+[-0.0368562,0.968516,-0.246209]
+[-0.999319,-0.0361124,0.00753719]
+
+[2025-03-18 11:12:05.092] [info] Creating offset frame for radius_r_imu
+[2025-03-18 11:12:05.093] [info] Added offset frame for radius_r_imu.
+[2025-03-18 11:12:05.093] [info] radius_r_imu offset computed from radius_r_imu data from file.
+[2025-03-18 11:12:05.151] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:12:07.119] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:12:07.157] [info] Heading correction computed to be 86.7398 degs about ground Y.
+[2025-03-18 11:12:07.157] [info] Processing pelvis_imu
+[2025-03-18 11:12:07.157] [info] Computed offset for pelvis_imu
+[2025-03-18 11:12:07.157] [info] Offset is 
+[-0.00175279,0.246155,0.969229]
+[-0.0368096,0.968558,-0.246051]
+[-0.999321,-0.0361082,0.0073632]
+
+[2025-03-18 11:12:07.157] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:12:07.159] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:12:07.159] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:12:07.159] [info] Processing hand_r_imu
+[2025-03-18 11:12:07.159] [info] Computed offset for hand_r_imu
+[2025-03-18 11:12:07.159] [info] Offset is 
+[-0.00159131,0.246319,0.969187]
+[-0.0368562,0.968516,-0.246209]
+[-0.999319,-0.0361124,0.00753719]
+
+[2025-03-18 11:12:07.159] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:12:07.160] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:12:07.160] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:12:07.160] [info] Processing humerus_r_imu
+[2025-03-18 11:12:07.160] [info] Computed offset for humerus_r_imu
+[2025-03-18 11:12:07.160] [info] Offset is 
+[-0.00175279,0.246155,0.969229]
+[-0.0368096,0.968558,-0.246051]
+[-0.999321,-0.0361082,0.0073632]
+
+[2025-03-18 11:12:07.160] [info] Creating offset frame for humerus_r_imu
+[2025-03-18 11:12:07.160] [info] Added offset frame for humerus_r_imu.
+[2025-03-18 11:12:07.160] [info] humerus_r_imu offset computed from humerus_r_imu data from file.
+[2025-03-18 11:12:07.160] [info] Processing radius_r_imu
+[2025-03-18 11:12:07.161] [info] Computed offset for radius_r_imu
+[2025-03-18 11:12:07.161] [info] Offset is 
+[-0.00159131,0.246319,0.969187]
+[-0.0368562,0.968516,-0.246209]
+[-0.999319,-0.0361124,0.00753719]
+
+[2025-03-18 11:12:07.161] [info] Creating offset frame for radius_r_imu
+[2025-03-18 11:12:07.161] [info] Added offset frame for radius_r_imu.
+[2025-03-18 11:12:07.161] [info] radius_r_imu offset computed from radius_r_imu data from file.
+[2025-03-18 11:12:07.250] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:12:07.801] [info] InverseKinematicsSolver found 4 model frames to track.
+[2025-03-18 11:12:32.131] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:12:32.159] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-18 11:12:32.159] [info] Processing hand_r_imu
+[2025-03-18 11:12:32.159] [info] Computed offset for hand_r_imu
+[2025-03-18 11:12:32.160] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-18 11:12:32.160] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:12:32.161] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:12:32.161] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:12:32.161] [info] Processing pelvis_imu
+[2025-03-18 11:12:32.162] [info] Computed offset for pelvis_imu
+[2025-03-18 11:12:32.162] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-18 11:12:32.163] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:12:32.163] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:12:32.164] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:12:32.218] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:12:32.791] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:16:04.688] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:16:04.716] [info] Heading correction computed to be 86.7398 degs about ground Y.
+[2025-03-18 11:16:04.716] [info] Processing pelvis_imu
+[2025-03-18 11:16:04.716] [info] Computed offset for pelvis_imu
+[2025-03-18 11:16:04.716] [info] Offset is 
+[-0.00175279,0.246155,0.969229]
+[-0.0368096,0.968558,-0.246051]
+[-0.999321,-0.0361082,0.0073632]
+
+[2025-03-18 11:16:04.716] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:16:04.718] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:16:04.718] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:16:04.718] [info] Processing hand_r_imu
+[2025-03-18 11:16:04.718] [info] Computed offset for hand_r_imu
+[2025-03-18 11:16:04.718] [info] Offset is 
+[-0.00159131,0.246319,0.969187]
+[-0.0368562,0.968516,-0.246209]
+[-0.999319,-0.0361124,0.00753719]
+
+[2025-03-18 11:16:04.718] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:16:04.719] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:16:04.719] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:16:04.719] [info] Processing torso_imu
+[2025-03-18 11:16:04.719] [info] Computed offset for torso_imu
+[2025-03-18 11:16:04.719] [info] Offset is 
+[-0.00175279,0.246155,0.969229]
+[-0.0368096,0.968558,-0.246051]
+[-0.999321,-0.0361082,0.0073632]
+
+[2025-03-18 11:16:04.719] [info] Creating offset frame for torso_imu
+[2025-03-18 11:16:04.720] [info] Added offset frame for torso_imu.
+[2025-03-18 11:16:04.720] [info] torso_imu offset computed from torso_imu data from file.
+[2025-03-18 11:16:04.720] [info] Processing tibia_l_imu
+[2025-03-18 11:16:04.720] [info] Computed offset for tibia_l_imu
+[2025-03-18 11:16:04.720] [info] Offset is 
+[-0.00182201,0.245895,0.969295]
+[-0.0368015,0.968623,-0.245794]
+[-0.999321,-0.0361194,0.00728448]
+
+[2025-03-18 11:16:04.720] [info] Creating offset frame for tibia_l_imu
+[2025-03-18 11:16:04.721] [info] Added offset frame for tibia_l_imu.
+[2025-03-18 11:16:04.721] [info] tibia_l_imu offset computed from tibia_l_imu data from file.
+[2025-03-18 11:16:04.778] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:16:05.283] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:21:39.477] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:21:39.505] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-18 11:21:39.505] [info] Processing hand_r_imu
+[2025-03-18 11:21:39.505] [info] Computed offset for hand_r_imu
+[2025-03-18 11:21:39.505] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-18 11:21:39.505] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:21:39.507] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:21:39.508] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:21:39.508] [info] Processing pelvis_imu
+[2025-03-18 11:21:39.508] [info] Computed offset for pelvis_imu
+[2025-03-18 11:21:39.509] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-18 11:21:39.509] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:21:39.511] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:21:39.511] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:21:39.570] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:21:40.009] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:24:41.549] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:24:41.578] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-18 11:24:41.578] [info] Processing hand_r_imu
+[2025-03-18 11:24:41.579] [info] Computed offset for hand_r_imu
+[2025-03-18 11:24:41.579] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-18 11:24:41.580] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:24:41.582] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:24:41.582] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:24:41.583] [info] Processing pelvis_imu
+[2025-03-18 11:24:41.583] [info] Computed offset for pelvis_imu
+[2025-03-18 11:24:41.583] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-18 11:24:41.584] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:24:41.585] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:24:41.585] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:24:41.639] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:24:42.079] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:26:57.948] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:26:57.975] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-18 11:26:57.976] [info] Processing hand_r_imu
+[2025-03-18 11:26:57.976] [info] Computed offset for hand_r_imu
+[2025-03-18 11:26:57.976] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-18 11:26:57.977] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:26:57.979] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:26:57.979] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:26:57.979] [info] Processing pelvis_imu
+[2025-03-18 11:26:57.979] [info] Computed offset for pelvis_imu
+[2025-03-18 11:26:57.980] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-18 11:26:57.980] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:26:57.983] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:26:57.983] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:26:58.036] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:26:58.571] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:27:33.572] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:27:33.600] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-18 11:27:33.600] [info] Processing hand_r_imu
+[2025-03-18 11:27:33.600] [info] Computed offset for hand_r_imu
+[2025-03-18 11:27:33.601] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-18 11:27:33.601] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:27:33.602] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:27:33.603] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:27:33.603] [info] Processing pelvis_imu
+[2025-03-18 11:27:33.603] [info] Computed offset for pelvis_imu
+[2025-03-18 11:27:33.603] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-18 11:27:33.604] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:27:33.605] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:27:33.605] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:27:33.682] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:27:34.122] [info] InverseKinematicsSolver found 2 model frames to track.
+[2025-03-18 11:27:57.706] [info] Loaded model Rajagopal_2015 from file Rajagopal_2015.osim
+[2025-03-18 11:27:57.735] [info] Heading correction computed to be 151.035 degs about ground Y.
+[2025-03-18 11:27:57.736] [info] Processing hand_r_imu
+[2025-03-18 11:27:57.736] [info] Computed offset for hand_r_imu
+[2025-03-18 11:27:57.736] [info] Offset is 
+[0.0923704,-0.807549,-0.582523]
+[0.989871,0.0111319,0.141531]
+[-0.107809,-0.589696,0.800397]
+
+[2025-03-18 11:27:57.737] [info] Creating offset frame for hand_r_imu
+[2025-03-18 11:27:57.738] [info] Added offset frame for hand_r_imu.
+[2025-03-18 11:27:57.739] [info] hand_r_imu offset computed from hand_r_imu data from file.
+[2025-03-18 11:27:57.739] [info] Processing pelvis_imu
+[2025-03-18 11:27:57.739] [info] Computed offset for pelvis_imu
+[2025-03-18 11:27:57.739] [info] Offset is 
+[0.0112293,-0.456527,0.889639]
+[0.990455,0.127312,0.0528297]
+[-0.13738,0.880554,0.453599]
+
+[2025-03-18 11:27:57.740] [info] Creating offset frame for pelvis_imu
+[2025-03-18 11:27:57.742] [info] Added offset frame for pelvis_imu.
+[2025-03-18 11:27:57.742] [info] pelvis_imu offset computed from pelvis_imu data from file.
+[2025-03-18 11:27:57.799] [info] Loaded model Rajagopal_2015 from file calibrated_Rajagopal_2015.osim
+[2025-03-18 11:27:58.235] [info] InverseKinematicsSolver found 2 model frames to track.
