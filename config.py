@@ -31,7 +31,7 @@ IDs = list(id_to_body.keys())
 '''
 #========================================================#
 
-# Choose the joints you want to save #
+# Uncomment the joints you want to save #
 
 joint_name = [
 'pelvis_tilt',         # شیب لگن
